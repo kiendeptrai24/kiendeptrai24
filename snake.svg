@@ -1,0 +1,8 @@
+
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="200" fill="black"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Arial" font-size="24" fill="lime">
+    Snake Contribution Graph (Placeholder)
+  </text>
+</svg>
